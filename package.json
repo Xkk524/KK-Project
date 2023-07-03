@@ -1,0 +1,23 @@
+{
+  "name": "kk-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "pinia": "^2.1.3",
+    "sass": "^1.63.6",
+    "vant": "^4.6.0",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "unplugin-vue-components": "^0.25.1",
+    "vite": "^4.3.9"
+  }
+}

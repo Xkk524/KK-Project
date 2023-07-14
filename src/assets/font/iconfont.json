@@ -6,6 +6,34 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "18729641",
+      "name": "对号 圆",
+      "font_class": "duihaoyuan",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "16430355",
+      "name": "右下三角",
+      "font_class": "youxiasanjiao",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "6010906",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "4444644",
+      "name": "定位",
+      "font_class": "spiritling-dingwei",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
       "icon_id": "5732759",
       "name": "定位",
       "font_class": "dingwei",

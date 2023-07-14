@@ -1,3 +1,16 @@
-body {
+html,body {
     font-size: 14px;
+}
+:root {
+    --promise-color: #ff9853;
+    --van-search-left-icon-color:var(--promise-color);
+}
+.hide{
+    position: relative;
+    z-index: 9;
+    background-color: white;
+    overflow-y:auto ;
+}
+.border-top-line {
+    border-top: 1px solid #faf8f9;
 }
